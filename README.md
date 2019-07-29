@@ -1,2 +1,3 @@
 # Screen Recorder
-https://user-images.githubusercontent.com/46237362/62079563-a078e380-b26c-11e9-9619-ac79081974bd.png
+![HDX7B](https://user-images.githubusercontent.com/46237362/62079890-37de3680-b26d-11e9-9472-84bd2ab722c9.png)
+
